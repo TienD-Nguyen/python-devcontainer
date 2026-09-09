@@ -11,6 +11,16 @@ A template for new Python projects, that I normally use, featuring [DevContainer
 - [x] [Dockerfile](https://docs.docker.com/build/concepts/dockerfile/) for configurations and deployments of DevContainer. Maybe others as well...
 - [x] [Pi Coding Agent](https://pi.dev) for a coding companion, ofc.
 
+## Setup
+
+The setup is pretty straightforward, and things are up and running within just a minute of initial spin-up. You can follow these steps:
+
+1. **Use this template**
+2. **Clone the repository**
+3. **Re-open the container**
+4. **Wait for setup to finish**
+5. **Now, we go full force (♡°▽°♡)**
+
 ## About
 
 It's just me, Tien or Dustin, who is still trying to figure things out. <(￣︶￣)>
