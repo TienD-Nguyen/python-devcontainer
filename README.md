@@ -1,6 +1,6 @@
 # python-devcontainer
 
-A template for new Python projects, that I normally use, featuring [DevContainer](https://containers.dev), [uv](https://docs.astral.sh/uv/) and [Pi Coding Agent](https://pi.dev).
+A template for new Python projects, that I normally use, featuring [DevContainer](https://containers.dev), [uv](https://docs.astral.sh/uv/) and [Pi Coding Agent](https://pi.dev). Also, some agent harness template files that I learned from [walkinglabs@learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering).
 
 ## Features
 
